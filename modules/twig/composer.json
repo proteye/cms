@@ -1,0 +1,20 @@
+{
+	"name": "waldson/twig",
+	"type": "kohana-module",
+	"description": "TWIG module for Kohana 3.3 to use twig templates as Kohana views seamlessly",
+    "version": "0.1",
+	"keywords": ["kohana","templating","twig"],
+	"require": {
+		"php": ">=5.2",
+		"composer/installers": "*",
+        "twig/twig": "1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Waldson Patrício",
+            "email": "waldsonpatricio@gmail.com",
+            "homepage": "http://waldson.com.br"
+        }
+    ]
+}
