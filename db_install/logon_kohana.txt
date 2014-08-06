@@ -1,0 +1,7 @@
+Login CMS
+-------------
+log: admin
+pas: admincms
+
+log: user
+pas: usercms

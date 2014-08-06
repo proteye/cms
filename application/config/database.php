@@ -19,7 +19,7 @@ return array
 			 * Ports and sockets may be appended to the hostname.
 			 */
 			'hostname'   => 'localhost',
-			'database'   => 'cms',
+			'database'   => 'cms_kohana',
 			'username'   => 'root',
 			'password'   => '',
 			'persistent' => FALSE,
